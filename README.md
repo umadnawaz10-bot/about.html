@@ -205,3 +205,62 @@ Carasurance is not an insurance company. We provide educational content and may 
 
 </body>
 </html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Contact - Carasurance</title>
+<style>
+body{font-family:Arial,sans-serif;background:#f5f5f5;margin:0;}
+header{background:#004aad;color:#fff;text-align:center;padding:20px;}
+.container{max-width:800px;margin:40px auto;background:#fff;padding:25px;border-radius:10px;}
+input,textarea{
+width:100%;
+padding:12px;
+margin:10px 0;
+border:1px solid #ccc;
+border-radius:5px;
+}
+button{
+background:#004aad;
+color:white;
+padding:12px 20px;
+border:none;
+border-radius:5px;
+cursor:pointer;
+}
+footer{
+background:#004aad;
+color:white;
+text-align:center;
+padding:15px;
+margin-top:40px;
+}
+</style>
+</head>
+<body>
+
+<header>
+<h1>Contact Us</h1>
+</header>
+
+<div class="container">
+<h2>Get in Touch</h2>
+
+<form>
+<input type="text" placeholder="Your Name">
+<input type="email" placeholder="Your Email">
+<textarea rows="6" placeholder="Your Message"></textarea>
+<button type="submit">Send Message</button>
+</form>
+
+</div>
+
+<footer>
+© 2026 Carasurance.com
+</footer>
+
+</body>
+</html>
+
